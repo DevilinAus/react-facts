@@ -1,0 +1,46 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Inter", sans-serif;
+}
+
+header {
+  height: 90px;
+  background-color: #21222a;
+  padding: 30px 25px;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  height: 100%;
+}
+
+nav > img {
+  width: 40px;
+  margin-right: 7px;
+}
+
+nav > span {
+  color: #61dafb;
+  font-size: 1.4rem;
+  font-weight: 700;
+}
+
+h1 {
+  font-family: "Inter";
+  font-weight: 700;
+  letter-spacing: -5%;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+  color: #ffffff;
+  background-color: #282d35;
+  min-height: 100vh;
+  padding-left: 30px;
+}
