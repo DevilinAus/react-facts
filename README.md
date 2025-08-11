@@ -1,4 +1,4 @@
-# React Facts! (aka 'My First React' Project!)
+# React Facts! (aka 'My First React Project!')
 
 Completed first project from [Scrimba's Learn React Course](https://scrimba.com/learn-react-c0e).
 
