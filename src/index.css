@@ -5,6 +5,7 @@
 body {
   margin: 0;
   font-family: "Inter", sans-serif;
+  background-color: #282d35;
 }
 
 header {
@@ -30,17 +31,27 @@ nav > span {
   font-weight: 700;
 }
 
-h1 {
+main {
+  display: flex;
+  flex-direction: column;
+  color: #ffffff;
+  padding: 60px 30px;
+}
+
+main > h1 {
+  margin: 0px;
+  font-size: 2.4rem;
   font-family: "Inter";
   font-weight: 700;
   letter-spacing: -5%;
 }
 
-main {
-  display: flex;
-  flex-direction: column;
-  color: #ffffff;
-  background-color: #282d35;
-  min-height: 100vh;
-  padding-left: 30px;
+.facts-list {
+  margin-top: 46px;
+  max-width: 400px;
+}
+
+.facts-list > li {
+  padding-block: 10px;
+  line-height: 19px;
 }
