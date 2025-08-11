@@ -10,4 +10,4 @@ I learned about:
 - Understanding & building custom components.
 - Learnt about styling react components.
 
-![Completed project screenshot](/src/assests/completed-screenshot.png)
+![Completed project screenshot](src/assests/completed-screenshot.png)
